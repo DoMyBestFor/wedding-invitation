@@ -5,8 +5,38 @@ const appearAnimation = `@keyframes appear {
     50% {
       transform: scale(0.5);
     }
+    60% {
+      transform: rotate(5deg);
+    }
+    65% {
+      transform: rotate(-5deg);
+    }
+    70% {
+      transform: rotate(5deg);
+    }
+    75% {
+      transform: rotate(-5deg);
+    }
+    80% {
+      transform: rotate(5deg);
+    }
+    85% {
+      transform: rotate(-5deg);
+    }
+    90% {
+      transform: rotate(5deg);
+    }
+    95% {
+      transform: rotate(-5deg);
+    }
+    94% {
+      transform: rotate(5deg);
+    }
+    95% {
+      transform: rotate(-5deg);
+    }
     to {
-      transform: scale(1);
+      transform: scale(1) rotate(5deg);
     }
   }`;
 
