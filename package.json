@@ -1,7 +1,6 @@
 {
-  "name": "thisisinvitation",
+  "name": "wedding-invitation",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@testing-library/jest-dom": "^5.16.4",
@@ -51,7 +50,7 @@
   },
   "homepage": ".",
   "main": "index.js",
-  "repository": "https://github.com/DoMyBestFor/thisisinvitation.git",
+  "repository": "https://github.com/DoMyBestFor/wedding-invitation.git",
   "author": "Park Jongdae <asdfg9377@naver.com>",
   "license": "MIT"
 }
