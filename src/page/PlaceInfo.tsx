@@ -1,5 +1,4 @@
 import { Button, Col, Divider, Row } from "antd";
-import styled from "styled-components";
 import map from "../img/map.jpg";
 
 import {
